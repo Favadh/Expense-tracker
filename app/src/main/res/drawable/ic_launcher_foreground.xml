@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top Golden Coin -->
+    <path
+        android:pathData="M58,33 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0"
+        android:fillColor="#FFC53D"
+        android:strokeWidth="2.4"
+        android:strokeColor="#1A1A1A" />
+
+    <!-- Dollar Sign Inside Coin -->
+    <path
+        android:pathData="M58,28.5 v9 M55.5,31 c0,-1.4 1.1,-2 2.5,-2 c1.4,0 2.5,0.7 2.5,1.8 c0,2.2 -5,1.5 -5,3.6 c0,1.2 1.1,2.1 2.5,2.1 c1.4,0 2.5,-0.6 2.5,-2"
+        android:strokeWidth="1.8"
+        android:strokeColor="#1A1A1A"
+        android:strokeLineCap="round" />
+
+    <!-- Piggy Curly Tail on the Right -->
+    <path
+        android:pathData="M80,56 c4,0 7,2 7,5 c0,3 -3,4.5 -5.5,4 c-2.5,-0.5 -3,-3 -1,-4.5 c2,-1.5 4,0 4,2"
+        android:strokeWidth="2.2"
+        android:strokeColor="#1A1A1A"
+        android:strokeLineCap="round" />
+
+    <!-- Piggy Bank Main Body (Yellow with Black Outline) -->
+    <path
+        android:pathData="
+            M33,38
+            c2,-5 7,-1 11,3
+            c7,-3 16,-3 23,0
+            c14,6 18,17 14,29
+            c-1.5,5 -4,8.5 -8,11
+            v6
+            c0,1.5 -1.2,2.5 -2.5,2.5
+            h-7
+            c-1.5,0 -2.5,-1 -2.5,-2.5
+            v-4
+            h-13
+            v4
+            c0,1.5 -1.2,2.5 -2.5,2.5
+            h-7
+            c-1.5,0 -2.5,-1 -2.5,-2.5
+            v-5
+            c-6,-3 -9,-7 -11,-12
+            h-4
+            c-3.5,0 -6,-3 -6,-6.5
+            v-2
+            c0,-3.5 2.5,-6.5 6,-6.5
+            h4
+            c2,-6 6,-12 11,-16
+            z"
+        android:fillColor="#FFC53D"
+        android:strokeWidth="2.6"
+        android:strokeColor="#1A1A1A"
+        android:strokeLineJoin="round" />
+
+    <!-- Coin Slot on Piggy's Back -->
+    <path
+        android:pathData="M48,43 Q58,45 67,43"
+        android:strokeWidth="2.6"
+        android:strokeColor="#1A1A1A"
+        android:strokeLineCap="round" />
+
+    <!-- Snout Outline (Left) -->
+    <path
+        android:pathData="M25,55 m-5.5,0 a5.5,7 0 1,0 11,0 a5.5,7 0 1,0 -11,0"
+        android:fillColor="#FFC53D"
+        android:strokeWidth="2.4"
+        android:strokeColor="#1A1A1A" />
+
+    <!-- Nostril Dots -->
+    <path
+        android:pathData="M23,53.5 v3 M27,53.5 v3"
+        android:strokeWidth="2.2"
+        android:strokeColor="#1A1A1A"
+        android:strokeLineCap="round" />
+
+    <!-- Eye Dot -->
+    <path
+        android:pathData="M37,53 m-2.2,0 a2.2,2.2 0 1,0 4.4,0 a2.2,2.2 0 1,0 -4.4,0"
+        android:fillColor="#1A1A1A" />
+</vector>
